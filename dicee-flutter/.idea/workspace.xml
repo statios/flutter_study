@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="02b2e08a-6fad-467c-abbd-a46da72cb88c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/27d087e63652fc84ea0507e910500e4a/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/27d087e63652fc84ea0507e910500e4a/.filecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/27d087e63652fc84ea0507e910500e4a/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/27d087e63652fc84ea0507e910500e4a/app.dill" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,22 +66,33 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="301" key="GridCell.Tab.0.bottom" timestamp="1612239505121">
+    <state width="1750" height="337" key="GridCell.Tab.0.bottom" timestamp="1612242885329">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.bottom/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612239505121" />
-    <state width="1750" height="301" key="GridCell.Tab.0.center" timestamp="1612239505120">
+    <state width="1750" height="337" key="GridCell.Tab.0.bottom/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612242885329" />
+    <state width="1750" height="337" key="GridCell.Tab.0.center" timestamp="1612242885329">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.center/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612239505120" />
-    <state width="1750" height="301" key="GridCell.Tab.0.left" timestamp="1612239505120">
+    <state width="1750" height="337" key="GridCell.Tab.0.center/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612242885329" />
+    <state width="1750" height="337" key="GridCell.Tab.0.left" timestamp="1612242885329">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.left/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612239505120" />
-    <state width="1750" height="301" key="GridCell.Tab.0.right" timestamp="1612239505121">
+    <state width="1750" height="337" key="GridCell.Tab.0.left/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612242885329" />
+    <state width="1750" height="337" key="GridCell.Tab.0.right" timestamp="1612242885329">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.right/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612239505121" />
+    <state width="1750" height="337" key="GridCell.Tab.0.right/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612242885329" />
   </component>
 </project>
