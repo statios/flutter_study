@@ -19,26 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10999929-d0d6-41df-959b-e8fa208f5600" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/Pacifico-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SourceSansPro-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="10999929-d0d6-41df-959b-e8fa208f5600" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1nnsCU6r3SoFVDNb9EptaPZvtE4" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -94,25 +85,25 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="496" y="235" key="#Intentions/297.1145.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612186435567" />
-    <state width="1750" height="301" key="GridCell.Tab.0.bottom" timestamp="1612223076767">
+    <state width="1750" height="301" key="GridCell.Tab.0.bottom" timestamp="1612227983043">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.bottom/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612223076767" />
+    <state width="1750" height="301" key="GridCell.Tab.0.bottom/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612227983043" />
     <state width="1750" height="301" key="GridCell.Tab.0.bottom/297.1145.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612183741583" />
-    <state width="1750" height="301" key="GridCell.Tab.0.center" timestamp="1612223076766">
+    <state width="1750" height="301" key="GridCell.Tab.0.center" timestamp="1612227983042">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.center/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612223076766" />
+    <state width="1750" height="301" key="GridCell.Tab.0.center/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612227983042" />
     <state width="1750" height="301" key="GridCell.Tab.0.center/297.1145.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612183741582" />
-    <state width="1750" height="301" key="GridCell.Tab.0.left" timestamp="1612223076766">
+    <state width="1750" height="301" key="GridCell.Tab.0.left" timestamp="1612227983042">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.left/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612223076766" />
+    <state width="1750" height="301" key="GridCell.Tab.0.left/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612227983042" />
     <state width="1750" height="301" key="GridCell.Tab.0.left/297.1145.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612183741581" />
-    <state width="1750" height="301" key="GridCell.Tab.0.right" timestamp="1612223076766">
+    <state width="1750" height="301" key="GridCell.Tab.0.right" timestamp="1612227983043">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.right/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612223076766" />
+    <state width="1750" height="301" key="GridCell.Tab.0.right/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612227983043" />
     <state width="1750" height="301" key="GridCell.Tab.0.right/297.1145.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612183741582" />
     <state x="397" y="208" key="SettingsEditor" timestamp="1612184982565">
       <screen x="0" y="25" width="1792" height="1095" />
