@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02b2e08a-6fad-467c-abbd-a46da72cb88c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dicee-flutter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dicee-flutter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/27d087e63652fc84ea0507e910500e4a/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/27d087e63652fc84ea0507e910500e4a/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/27d087e63652fc84ea0507e910500e4a/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/27d087e63652fc84ea0507e910500e4a/app.dill" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +15,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FlutterView" splitter-proportion="0.1996587" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -25,6 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -49,21 +54,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="301" key="GridCell.Tab.0.bottom" timestamp="1612228001989">
+    <state width="1750" height="301" key="GridCell.Tab.0.bottom" timestamp="1612239505121">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.bottom/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612228001989" />
-    <state width="1750" height="301" key="GridCell.Tab.0.center" timestamp="1612228001988">
+    <state width="1750" height="301" key="GridCell.Tab.0.bottom/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612239505121" />
+    <state width="1750" height="301" key="GridCell.Tab.0.center" timestamp="1612239505120">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.center/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612228001988" />
-    <state width="1750" height="301" key="GridCell.Tab.0.left" timestamp="1612228001988">
+    <state width="1750" height="301" key="GridCell.Tab.0.center/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612239505120" />
+    <state width="1750" height="301" key="GridCell.Tab.0.left" timestamp="1612239505120">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.left/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612228001988" />
-    <state width="1750" height="301" key="GridCell.Tab.0.right" timestamp="1612228001989">
+    <state width="1750" height="301" key="GridCell.Tab.0.left/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612239505120" />
+    <state width="1750" height="301" key="GridCell.Tab.0.right" timestamp="1612239505121">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state width="1750" height="301" key="GridCell.Tab.0.right/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612228001989" />
+    <state width="1750" height="301" key="GridCell.Tab.0.right/1792.311.1194.809/0.25.1792.1095@0.25.1792.1095" timestamp="1612239505121" />
   </component>
 </project>
