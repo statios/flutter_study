@@ -16,22 +16,25 @@ class MyApp extends StatelessWidget {
           ),
           body: Text('안녕'),
           bottomNavigationBar: BottomAppBar(
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: [
-                IconButton(
-                  icon: Icon(Icons.phone),
-                  onPressed: () {}
-                ),
-                IconButton(
-                    icon: Icon(Icons.message),
+            child: SizedBox(
+              height: 70,
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                children: [
+                  IconButton(
+                    icon: Icon(Icons.phone),
                     onPressed: () {}
-                ),
-                IconButton(
-                    icon: Icon(Icons.contact_page),
-                    onPressed: () {}
-                )
-              ],
+                  ),
+                  IconButton(
+                      icon: Icon(Icons.message),
+                      onPressed: () {}
+                  ),
+                  IconButton(
+                      icon: Icon(Icons.contact_page),
+                      onPressed: () {}
+                  )
+                ],
+              ),
             ),
           )
         )
