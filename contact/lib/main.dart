@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
         home: Scaffold(
           appBar: AppBar(),
           body: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Icon(Icons.star),
               Icon(Icons.star),
