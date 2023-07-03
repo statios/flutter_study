@@ -10,7 +10,19 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        home: Image.asset('dog.webp')
+        home: Scaffold(
+          appBar: AppBar(),
+          body: Row(
+            children: [
+              Icon(Icons.star),
+              Icon(Icons.star),
+              Icon(Icons.star),
+              Icon(Icons.star),
+              Icon(Icons.star)
+            ]
+          ),
+          bottomNavigationBar: BottomAppBar()
+        )
     );
   }
 }
