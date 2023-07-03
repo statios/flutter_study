@@ -14,29 +14,13 @@ class MyApp extends StatelessWidget {
           appBar: AppBar(
             title: Text('앱임')
           ),
-          body: Text('안녕'),
-          bottomNavigationBar: BottomAppBar(
-            child: SizedBox(
-              height: 70,
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  IconButton(
-                    icon: Icon(Icons.phone),
-                    onPressed: () {}
-                  ),
-                  IconButton(
-                      icon: Icon(Icons.message),
-                      onPressed: () {}
-                  ),
-                  IconButton(
-                      icon: Icon(Icons.contact_page),
-                      onPressed: () {}
-                  )
-                ],
-              ),
+          body: Container(
+            width: 150,
+            height: 50,
+            decoration: BoxDecoration(
+              border: Border.all(color: Colors.black)
             ),
-          )
+          ),
         )
     );
   }
