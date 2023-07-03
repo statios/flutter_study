@@ -14,13 +14,16 @@ class MyApp extends StatelessWidget {
           appBar: AppBar(
             title: Text('앱임')
           ),
-          body: Container(
-            width: 150,
-            height: 50,
-            decoration: BoxDecoration(
-              border: Border.all(color: Colors.black)
+          body: Align(
+            alignment: Alignment.topCenter,
+            child: Container(
+              width: 150,
+              height: 50,
+              decoration: BoxDecoration(
+                  border: Border.all(color: Colors.black)
+              ),
             ),
-          ),
+          )
         )
     );
   }
