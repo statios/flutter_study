@@ -15,12 +15,9 @@ class MyApp extends StatelessWidget {
             title: Text('앱임')
           ),
           body: SizedBox(
-            child: Text(
-              '안녕하세요',
-              style: TextStyle(
-                  color: Colors.red,
-                  fontSize: 27
-              ),
+            child: ElevatedButton(
+              child: Text('글자'),
+              onPressed: (){}
             )
           )
         )
