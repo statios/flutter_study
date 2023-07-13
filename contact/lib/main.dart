@@ -14,15 +14,14 @@ class MyApp extends StatelessWidget {
           appBar: AppBar(
             title: Text('앱임')
           ),
-          body: Align(
-            alignment: Alignment.topCenter,
-            child: Container(
-              width: 150,
-              height: 50,
-              decoration: BoxDecoration(
-                  border: Border.all(color: Colors.black)
+          body: SizedBox(
+            child: Text(
+              '안녕하세요',
+              style: TextStyle(
+                  color: Colors.red,
+                  fontSize: 27
               ),
-            ),
+            )
           )
         )
     );
