@@ -15,9 +15,9 @@ class MyApp extends StatelessWidget {
             title: Text('앱임')
           ),
           body: SizedBox(
-            child: ElevatedButton(
-              child: Text('글자'),
-              onPressed: (){}
+            child: IconButton(
+              icon: Icon(Icons.star),
+              onPressed: (){},
             )
           )
         )
